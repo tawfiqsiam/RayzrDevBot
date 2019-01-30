@@ -1,12 +1,12 @@
 {
     "name": "RayzrDev Bot",
-    "prefix": "-",
+    "prefix": "!!",
     "color": [
         185,
         220,
         255
     ],
-    "token": "",
+    "token": "NTM5NzIzMzU2NjA2NTYyMzA0.DzL2Vw.gCKpDc8qdXK5m52mcd39rVyw7bk",
     "curseforgeAPIToken": "",
     "joinMessage": "Welcome to the offical RayzrDev server, {user}!",
     "statusFormat": "Members: {members} | Online: {online} | Please mention the @SharpBot Support role in #general-support for help with SharpBot.",
